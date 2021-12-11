@@ -1,5 +1,4 @@
-<?php
- echo '[
+[
   {
     "ten":"Màn 1",
     "dapAn":"mamut",
@@ -100,5 +99,4 @@
     "dapAn":"tradua",
     "anh":"https://1.bp.blogspot.com/-ha9uUiPWbkM/U-9DGO07ICI/AAAAAAAAEls/3fMSF08vs7I/s1600/2014-08-16%2B18.15.05-1.png"
   }
-]';
-?>
+]'
